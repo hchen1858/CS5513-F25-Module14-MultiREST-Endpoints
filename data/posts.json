@@ -1,0 +1,30 @@
+[
+    {
+        "title": "A Maine Coon Friend",
+        "date": "2025-09-10",
+        "contentHtml":"<p>I saw my friend Mochi the Maine Coon cat in the front yard today. He is a paragon of Maine Coon cats, with the two main characteristics of his breed.</p> <ul><li>Largest non-hybrid domestic cat breed</li><li>Polydactylism</li></ul><p>Mochi is a huge 22 lb giant who is 15 inches tall at the shoulder. Mochi has huge paws, one of which has seven toes!</p>",
+        "imagePath":"/images/Two_Maine_Coons.jpg",
+        "altText":"Two Maine Coon cats",
+        "id":"1"
+    },
+    {
+        "title": "Howling Siamese",
+        "date": "2025-09-11",
+        "contentHtml":"<p>Those howling Siamese cats across the street were at it again. They yowl all night when the moon is full.</p> <p>I can't catch a good catnap when they are at it. And all the mice run away so there's no good hunting either.</p> <p>What can I do?</p>",
+        "imagePath":"/images/Two_Siamese_cats.jpg",
+        "altText":"Two Siamese cats",
+        "id":"2"
+    },
+    {
+        "title": "Invisible Persian Lady",
+        "date": "2025-09-12",
+        "contentHtml":"<p>I know there is a beautiful white Persian cat in a house down the street. She often sits in a window, sunning herself.</p> <p>I wish she would come outside to play.  All she does is sit in the window and turn up her nose. Maybe she is just so vain and keeping her white coat clean.</p>",
+        "imagePath":"/images/White_Persian.jpg",
+        "altText":"A white Persion cat",
+        "id":"3"
+    }
+
+
+
+
+]
